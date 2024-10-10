@@ -1,5 +1,4 @@
 <h1 align="center">Hello, I'm Mokshit Oswal</h1>
-<h3 align="center">Data Science, Machine Learning, Deep Learning and NLP enthusiast from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moky1477&label=Profile%20views&color=0e75b6&style=flat" alt="moky1477" /> </p>
 
